@@ -1,5 +1,5 @@
 {
-    "name": "hyperf-sms",
+    "name": "pompx/hyperf-sms",
     "type": "library",
     "license": "MIT",
     "keywords": [
